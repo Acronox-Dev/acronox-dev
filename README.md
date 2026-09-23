@@ -25,9 +25,8 @@ school:    IMT Atlantique
 status:    turning caffeine into commits
 
 focus:
-  - personal website (the eternal WIP)
+  - learning everyday
   - random ideas that escalate way too fast
-  - learning by breaking things first
 
 fuel:      [ coffee, heavy compounds, lo-fi ]
 ```
@@ -116,8 +115,8 @@ Lifting taught me more about shipping code than any tutorial: show up, add one p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Acronox-Dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8DCC4&icon_color=3B82F6&text_color=C8A97E&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Acronox-Dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8DCC4&text_color=C8A97E&langs_count=8" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Acronox-Dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8DCC4&icon_color=3B82F6&text_color=C8A97E&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Acronox-Dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8DCC4&text_color=C8A97E&langs_count=8" />
 
 <img width="94%" src="https://streak-stats.demolab.com?user=Acronox-Dev&hide_border=true&background=0D1117&stroke=1B3A5C&ring=3B82F6&fire=C8A97E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E8DCC4&sideLabels=C8A97E&dates=6E7681" />
 
