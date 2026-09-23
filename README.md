@@ -43,11 +43,11 @@ fuel:      [ coffee, heavy compounds, lo-fi ]
 
 **5 sessions / week**, no negotiation.
 
-| | |
-|:--|:--|
-| **Split** | Push / Pull / Legs |
-| **Streak** | consistency > motivation |
-| **PR mindset** | same as in git: always push |
+<table>
+<tr><td><b>Split</b></td><td>Push / Pull / Legs</td></tr>
+<tr><td><b>Streak</b></td><td>consistency &gt; motivation</td></tr>
+<tr><td><b>PR mindset</b></td><td>same as in git: always push</td></tr>
+</table>
 
 Lifting taught me more about shipping code than any tutorial: show up, add one plate, repeat.
 
@@ -82,9 +82,12 @@ Lifting taught me more about shipping code than any tutorial: show up, add one p
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E8DCC4)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=E8DCC4)
 ![OCaml](https://img.shields.io/badge/OCaml-0D1117?style=flat-square&logo=ocaml&logoColor=C8A97E)
+![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=3B82F6)
+![Elixir](https://img.shields.io/badge/Elixir-0D1117?style=flat-square&logo=elixir&logoColor=C8A97E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3B82F6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=E8DCC4)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=3B82F6)
+![Liquid](https://img.shields.io/badge/Liquid-0D1117?style=flat-square&logo=shopify&logoColor=C8A97E)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=C8A97E)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=3B82F6)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0D1117?style=flat-square&logo=latex&logoColor=E8DCC4)
@@ -93,6 +96,7 @@ Lifting taught me more about shipping code than any tutorial: show up, add one p
 <br>
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=3B82F6)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E8DCC4)
+![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=3B82F6)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=C8A97E)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=3B82F6)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=C8A97E)
