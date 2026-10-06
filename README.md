@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1B3A5C,100:3B82F6&text=Alexis%20BARET&fontColor=E8DCC4&fontSize=48&fontAlignY=34&desc=aka%20Acronox%20%C2%B7%20Engineering%20student%20%40%20IMT%20Atlantique&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:C8A97E,100:E8DCC4&text=Alexis%20BARET&fontColor=0D1117&fontSize=48&fontAlignY=34&desc=aka%20Acronox%20%C2%B7%20Engineering%20student%20%40%20IMT%20Atlantique&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E8DCC4&center=true&vCenter=true&width=620&height=45&lines=Building+things+that+shouldn't+work+%E2%80%94+until+they+do;Brest%2C+France;5x%2Fweek+in+the+gym%2C+7x%2Fweek+in+the+terminal;Currently+cooking+my+personal+website" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=E8DCC4&labelColor=0D1117)](https://www.linkedin.com/in/alexis-baret-4786a3374)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=E8DCC4&labelColor=0D1117)](https://www.linkedin.com/in/alexis-baret-4786a3374)
 [![Email](https://img.shields.io/badge/Email-E8DCC4?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:alexisbaret05.dev@gmail.com)
 [![Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-C8A97E?style=for-the-badge&logo=kofi&logoColor=0D1117&labelColor=0D1117)](https://ko-fi.com/acronox)
 
@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:E8DCC4,100:0D1117&section=header" width="100%" />
 
-## <img src="https://img.shields.io/badge/-3B82F6?style=flat-square&labelColor=3B82F6" height="14"/> `whoami`
+## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&labelColor=FFFFFF" height="14"/> `whoami`
 
 ```yaml
 name:      Alexis BARET
@@ -58,7 +58,7 @@ Lifting taught me more about shipping code than any tutorial: show up, add one p
 
 **Sweat mode**
 <br>
-![The Finals](https://img.shields.io/badge/THE%20FINALS-3B82F6?style=for-the-badge&logoColor=E8DCC4&labelColor=0D1117)
+![The Finals](https://img.shields.io/badge/THE%20FINALS-FFFFFF?style=for-the-badge&logoColor=E8DCC4&labelColor=0D1117)
 <br>Fast FPS, destructible everything, zero patience.
 
 **Chill mode**
@@ -77,52 +77,52 @@ Lifting taught me more about shipping code than any tutorial: show up, add one p
 
 **Languages**
 <br>
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=3B82F6)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=3B82F6)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E8DCC4)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=E8DCC4)
 ![OCaml](https://img.shields.io/badge/OCaml-0D1117?style=flat-square&logo=ocaml&logoColor=C8A97E)
-![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=3B82F6)
+![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=FFFFFF)
 ![Elixir](https://img.shields.io/badge/Elixir-0D1117?style=flat-square&logo=elixir&logoColor=C8A97E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3B82F6)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=E8DCC4)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=3B82F6)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=FFFFFF)
 ![Liquid](https://img.shields.io/badge/Liquid-0D1117?style=flat-square&logo=shopify&logoColor=C8A97E)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=C8A97E)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=3B82F6)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FFFFFF)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0D1117?style=flat-square&logo=latex&logoColor=E8DCC4)
 
 **Frameworks & tools**
 <br>
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=3B82F6)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E8DCC4)
-![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=3B82F6)
+![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=C8A97E)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=3B82F6)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=C8A97E)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=3B82F6)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=E8DCC4)
 
 **Data & infra**
 <br>
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3B82F6)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=C8A97E)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=3B82F6)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=E8DCC4)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=3B82F6)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E8DCC4)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=3B82F6)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=FFFFFF)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:E8DCC4,100:0D1117&section=header" width="100%" />
 
-## <img src="https://img.shields.io/badge/-3B82F6?style=flat-square&labelColor=3B82F6" height="14"/> Stats
+## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&labelColor=FFFFFF" height="14"/> Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Acronox-Dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8DCC4&icon_color=3B82F6&text_color=C8A97E&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Acronox-Dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8DCC4&icon_color=FFFFFF&text_color=C8A97E&include_all_commits=false&count_private=false" />
 <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Acronox-Dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8DCC4&text_color=C8A97E&langs_count=8" />
 
-<img width="94%" src="https://streak-stats.demolab.com?user=Acronox-Dev&hide_border=true&background=0D1117&stroke=1B3A5C&ring=3B82F6&fire=C8A97E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E8DCC4&sideLabels=C8A97E&dates=6E7681" />
+<img width="94%" src="https://streak-stats.demolab.com?user=Acronox-Dev&hide_border=true&background=0D1117&stroke=C8A97E&ring=E8DCC4&fire=C8A97E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E8DCC4&sideLabels=C8A97E&dates=6E7681" />
 
 <img width="94%" src="https://raw.githubusercontent.com/Acronox-Dev/acronox-dev/output/snake.svg" alt="Contribution snake" />
 
@@ -141,8 +141,8 @@ If something here helped you, saved you time, or just made you smile —
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Acronox-Dev&label=Profile%20views&color=3B82F6&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Acronox-Dev&label=Profile%20views&color=C8A97E&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:3B82F6,50:1B3A5C,100:0D1117&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:E8DCC4,100:C8A97E&reversal=true" width="100%" />
 
 </div>
